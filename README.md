@@ -6,5 +6,5 @@ Here is where the story all began...
 - Joshua McKenzie \(jsmckenz\)
 - Angel Chiquito \(achiqui1\)
 - Dallas Moore \(dmoore70\)
-- Osvaldo Rivera 
+- Osvaldo Rivera \(oriver11\)
 - Brandon Schleigh \(bbschlei\)
