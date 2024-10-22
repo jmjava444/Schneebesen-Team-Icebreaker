@@ -1,0 +1,23 @@
+Raesfeld: Raesfeld (a town in Germany)
+Flughafen: Airport
+Berlin: Berlin (the capital city of Germany)
+Bratwurst: Sausage
+Hauptstrasse: Main Street
+Brot: Bread
+Klimaanlage: Air Conditioning
+Rammstein: Rammstein (a German band)
+Porsche: Porsche (a car brand)
+BMW: BMW (a car brand)
+Biergarten: Beer Garden
+Ratskeller: Bar or restaurant located in basement of a city hall
+Dirndl: Traditional Bavarian Dress
+Lederhose: Leather Pants (traditional Bavarian attire)
+Schloss: lock
+wettbewerbsfähig: Competitive
+Mehlhase: Flour bunny
+Gebäck: Pastry
+Bäckerei: Bakery
+Hund: Dog
+Döner: Doner Kebab
+Apfelkuchen: Apple Cake
+Schloss Eltz: Eltz Castle (castle in Germany)
