@@ -2,6 +2,6 @@
   -  https://github.com/nmedari/Drahtesel/pull/10
   -  https://github.com/terra-bawden/Icebreaker/pull/28
 -  Dallas Moore - https://github.com/terra-bawden/Icebreaker/pull/18
--  Brandon Schleigh
+-  Brandon Schleigh - https://github.com/terra-bawden/Icebreaker/pull/33
 -  Angel Chiquito - https://github.com/nmedari/Drahtesel/pull/6
 -  Osvaldo Rivera - https://github.com/cjkenn13/Ice-breaker-/pull/2
